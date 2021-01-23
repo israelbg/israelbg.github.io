@@ -1,11 +1,12 @@
-I"8
-<div class="grid grid-cols-3 gap-12 my-8">
+I"Æ
+<div class="grid grid-cols-3 gap-12 my-4 md:my-8">
   
-
     
 
-        <div class="col-span-3 grid grid-cols-4 gap-12">
-          <div class="sm:col-span-3 h-44 col-span-4 bg-gray-900 rounded-md"></div>
+        <div class="col-span-3 grid grid-cols-4 gap-4 md:gap-12">
+          <div class="sm:col-span-3 h-44 col-span-4 bg-gray-900 rounded-md">
+          <img src="/imagens/Dona.jpeg" />
+          </div>
           <div class="sm:col-span-1 col-span-4 md:col-span-3">
             <div class="text-sm text-gray-500"><time datetime="2021-01-20">20 January 2021</time></div>
             <div class="text-3xl font-semibold mt-2">Dona!</div>
@@ -34,9 +35,8 @@ iudyfkjdhs jkfsdkjhf kjsdhfjk sdhfjk dsjkfh jk</p>
     
 
 
-
     
-      <a href="/2021/01/19/holo.html" class="block">
+      <a href="/2021/01/19/holo.html" class="block col-span-3 md:col-span-1">
         <div class="bg-gray-900 h-44 rounded-md"></div>
         <div class="text-sm text-gray-500 mt-4"><time datetime="2021-01-19">19 January 2021</time></div>
         <div class="text-3xl font-semibold mt-2">Este post tiene tags</div>
@@ -54,9 +54,8 @@ iudyfkjdhs jkfsdkjhf kjsdhfjk sdhfjk dsjkfh jk</p>
     
 
 
-
     
-      <a href="/2021/01/01/micho.html" class="block">
+      <a href="/2021/01/01/micho.html" class="block col-span-3 md:col-span-1">
         <div class="bg-gray-900 h-44 rounded-md"></div>
         <div class="text-sm text-gray-500 mt-4"><time datetime="2021-01-01">01 January 2021</time></div>
         <div class="text-3xl font-semibold mt-2">Micho!</div>
@@ -74,9 +73,8 @@ iudyfkjdhs jkfsdkjhf kjsdhfjk sdhfjk dsjkfh jk</p>
     
 
 
-
     
-      <a href="/2011/12/31/hola.html" class="block">
+      <a href="/2011/12/31/hola.html" class="block col-span-3 md:col-span-1">
         <div class="bg-gray-900 h-44 rounded-md"></div>
         <div class="text-sm text-gray-500 mt-4"><time datetime="2011-12-31">31 December 2011</time></div>
         <div class="text-3xl font-semibold mt-2">Hola!</div>
