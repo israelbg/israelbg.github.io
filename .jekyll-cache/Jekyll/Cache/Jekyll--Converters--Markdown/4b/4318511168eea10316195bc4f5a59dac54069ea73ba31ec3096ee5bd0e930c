@@ -1,10 +1,10 @@
-I"
+I"&
 <div class="grid grid-cols-3 sm:grid-cols-1 gap-12 my-8">
   
 
     
 
-        <div class="col-span-3 grid grid-cols-4 gap-12">
+        <div class="col-span-1 md:col-span-3 grid grid-cols-4 gap-12">
           <div class="col-span-3 bg-gray-900 rounded-md"></div>
           <div class="col-span-1">
             <div class="text-sm text-gray-500"><time datetime="2021-01-20">20 January 2021</time></div>

@@ -1,26 +1,12 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>IB | Israel Bustillos</title>
-    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
-  </head>
-  <body class="w-2/3 mx-auto">
-    <header>
-      <nav class="py-8">
-        <a href="/" class="font-semibold text-3xl tracking-wider uppercase">Israel Bustillos</a>
-      </nav>
-    </header>
-    <main>
-      <div class="grid grid-cols-3 gap-12 my-8">
+I"B
+<div class="grid sm:grid-cols-3 grid-cols-1 gap-12 my-8">
   
 
     
 
-        <div class="col-span-3 grid grid-cols-4 gap-12">
-          <div class="sm:col-span-3 h-44 col-span-4 bg-gray-900 rounded-md"></div>
-          <div class="sm:col-span-1 col-span-4 md:col-span-3">
+        <div class="sm:col-span-1 col-span-3 grid grid-cols-4 gap-12">
+          <div class="sm:col-span-1 col-span-3 bg-gray-900 rounded-md"></div>
+          <div class="col-span-1 md:col-span-3">
             <div class="text-sm text-gray-500"><time datetime="2021-01-20">20 January 2021</time></div>
             <div class="text-3xl font-semibold mt-2">Dona!</div>
             <div class="mt-4"><p>this is my first Jekyll blog post.</p>
@@ -110,7 +96,4 @@ iudyfkjdhs jkfsdkjhf kjsdhfjk sdhfjk dsjkfh jk</p>
 
 
 </div>
-
-    </main>
-  </body>
-</html>
+:ET
