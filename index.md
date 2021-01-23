@@ -3,7 +3,7 @@ layout: default
 title: "Israel Bustillos"
 ---
 
-<div class="grid grid-cols-3 gap-12 my-8">
+<div class="grid grid-cols-3 sm:grid-cols-1 gap-12 my-8">
   {% for post in site.posts %}
 
     {% if forloop.index == 1 %}

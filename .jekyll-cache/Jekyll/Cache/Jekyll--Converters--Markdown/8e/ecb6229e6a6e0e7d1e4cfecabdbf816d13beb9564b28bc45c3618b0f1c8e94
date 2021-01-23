@@ -1,4 +1,5 @@
-I"È	<div class="grid grid-cols-3 gap-12 my-8">
+I"
+<div class="grid grid-cols-3 sm:grid-cols-1 gap-12 my-8">
   
 
     
@@ -13,18 +14,19 @@
 <p>I hope you like it!
 ddjklf jdlkjflksdjf klsdjfl
 k jsdlkfj sdlkfj lsdkjf lksdjfl jsdlfkj sdlas das das das das das dasd as dasdsa das dasd asd asd as
-kfjds lkfjsdlkfj lsdkfj lsdkjfkl sdflk jsdlkfj sdlkfjsd klfj sdkl fkl</p>
+kfjds lkfjsdlkfj lsdkfj lsdkjfkl sdflk jsdlkfj sdlkfjsd klfj sdkl fkl
+iudyfkjdhs jkfsdkjhf kjsdhfjk sdhfjk dsjkfh jk</p>
 </div>
-            <a href="/2021/01/20/Dona.html" class="text-blue-500 text-small">
-                        <div class="flex space-x-2">
-            
-              <div class="bg-gray-900 text-xs text-white p-1 rounded-md">classic hollywood</div>
-            
-              <div class="bg-gray-900 text-xs text-white p-1 rounded-md">Hola</div>
-            
-              <div class="bg-gray-900 text-xs text-white p-1 rounded-md">Dona</div>
-            
+            <div class="flex space-x-2 mt-2">
+              
+                <div class="bg-gray-900 text-xs text-white p-1 rounded-md">classic hollywood</div>
+              
+                <div class="bg-gray-900 text-xs text-white p-1 rounded-md">Hola</div>
+              
+                <div class="bg-gray-900 text-xs text-white p-1 rounded-md">Dona</div>
+              
             </div>
+            <a href="/2021/01/20/Dona.html" class="text-blue-500 text-small mt-2 block">
             Go to post
             </a>
           </div>
