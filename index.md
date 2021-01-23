@@ -32,8 +32,6 @@ title: "Israel Bustillos"
         <div class="text-3xl font-semibold mt-2">{{ post.title }}</div>
         <div class="mt-2">{{ post.content }}</div>
 
-
-
         {% for tag in post.tags %}
           {% assign tag_slug = tag | slugify: "raw" %}
           <a class="tag-link"
@@ -42,8 +40,6 @@ title: "Israel Bustillos"
             #{{ tag }}
           </a>
         {% endfor %}
-
-
       </a>
     {% endif %}
 
