@@ -25,7 +25,7 @@ title: "Israel Bustillos"
           </div>
         </div>
     {% else %}
-      <a href="{{ post.url }}" class="block">
+      <a href="{{ post.url }}" class="block col-span-3 md:col-span-1">
         <div class="bg-gray-900 h-44 rounded-md"></div>
         <div class="text-sm text-gray-500 mt-4"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></div>
         <div class="text-3xl font-semibold mt-2">{{ post.title }}</div>
