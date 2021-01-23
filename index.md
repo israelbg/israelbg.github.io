@@ -3,12 +3,12 @@ layout: default
 title: "Israel Bustillos"
 ---
 
-<div class="grid grid-cols-3 gap-12 my-8">
+<div class="grid grid-cols-3 gap-12 my-4 md:my-8">
   {% for post in site.posts %}
 
     {% if forloop.index == 1 %}
 
-        <div class="col-span-3 grid grid-cols-4 gap-12">
+        <div class="col-span-3 grid grid-cols-4 gap-4 md:gap-12">
           <div class="sm:col-span-3 h-44 col-span-4 bg-gray-900 rounded-md"></div>
           <div class="sm:col-span-1 col-span-4 md:col-span-3">
             <div class="text-sm text-gray-500"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time></div>

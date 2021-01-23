@@ -1,12 +1,12 @@
-I"*
-<div class="grid grid-cols-3 gap-12 my-8">
+I"@
+<div class="grid grid-cols-3 gap-12 my-4 md:my-8">
   
 
     
 
         <div class="col-span-3 grid grid-cols-4 gap-12">
-          <div class="sm:col-span-3 h-32 col-span-4 bg-gray-900 rounded-md"></div>
-          <div class="col-span-1 md:col-span-3">
+          <div class="sm:col-span-3 h-44 col-span-4 bg-gray-900 rounded-md"></div>
+          <div class="sm:col-span-1 col-span-4 md:col-span-3">
             <div class="text-sm text-gray-500"><time datetime="2021-01-20">20 January 2021</time></div>
             <div class="text-3xl font-semibold mt-2">Dona!</div>
             <div class="mt-4"><p>this is my first Jekyll blog post.</p>
